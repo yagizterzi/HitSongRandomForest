@@ -72,5 +72,12 @@ Thus, we create a new **binary target variable**:
 git clone https://github.com/yourusername/HitSongRandomForest.git
 cd HitSongRandomForest
 pip install -r requirements.txt
+```
+
+---
+
+# License
+
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
 
 
