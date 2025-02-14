@@ -64,8 +64,13 @@ Thus, we create a new **binary target variable**:
 
 ## 🚀 How to Run the Project  
 
-### **1️⃣ Clone the Repository**  
-```sh
-git clone https://github.com/yourusername/hit-song-prediction.git
-cd hit-song-prediction
+# Hit Song Prediction
+
+## 1️⃣ Clone the Repository and Install Dependencies
+
+```bash
+git clone https://github.com/yourusername/HitSongRandomForest.git
+cd HitSongRandomForest
+pip install -r requirements.txt
+
 
